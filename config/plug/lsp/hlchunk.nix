@@ -7,7 +7,7 @@
         owner = "shellRaining";
         repo = "hlchunk.nvim";
         rev = "ba6e2347177fec8ec6af4ae26d11a468c9e0ca72";
-        hash = "sha256-IwxyUwL10pop+Aod7BFM67JFXVY37z2Ly4EnlGPwfls=";
+        hash = "sha256-Rx5kpjfpiH9i/IvOXx+wEWSO4gdfmXdhULDxbcBJQAY=";
       };
     })
   ];
