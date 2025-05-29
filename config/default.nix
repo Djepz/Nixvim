@@ -58,7 +58,7 @@
 
     # Utility Plugins
     ./plug/utils/comment.nix
-    ./plug/utils/wakatime.nix
+    #./plug/utils/wakatime.nix
     ./plug/utils/comment-box.nix
     ./plug/utils/flash.nix
     ./plug/utils/trouble.nix
@@ -70,7 +70,7 @@
     ./plug/utils/mini.nix
     ./plug/utils/neo-tree.nix
     ./plug/utils/nvim-autopairs.nix
-    ./plug/utils/obsidian.nix
+    #./plug/utils/obsidian.nix
     ./plug/utils/oil.nix
     ./plug/utils/ufo.nix
     ./plug/utils/undotree.nix
